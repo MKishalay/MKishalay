@@ -1,23 +1,5 @@
 # M. Kishalay
 
-Computer Science student focused on software engineering.
+C++ • TypeScript • React • Node.js • PostgreSQL • Linux • Docker • AWS • Terraform
 
-## Currently Learning
-
-- C++
-- Data Structures & Algorithms
-- Full Stack Development
-
-## Focus
-
-Building strong programming fundamentals and practical software projects.
-
-## Technologies
-
-- C++
-- JavaScript
-- React
-- Node.js
-- PostgreSQL
-- Git
-- Linux
+Building software with an emphasis on engineering fundamentals, scalable systems, and practical architecture.
