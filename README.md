@@ -1,4 +1,4 @@
-# M. Kishalay
+# Kishalay Majumder
 
 C++ • TypeScript • React • Node.js • PostgreSQL • Linux • Docker • AWS • Terraform
 
